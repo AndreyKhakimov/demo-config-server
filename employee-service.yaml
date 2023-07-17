@@ -18,7 +18,7 @@ spring:
         defaultZone: http://localhost:8761/eureka/
 
   boot:
-    message: Test rabbitmq + spring cloud bus completed
+    message: Test rabbitmq + spring cloud bus message changed
 
 server:
   port: 8081
